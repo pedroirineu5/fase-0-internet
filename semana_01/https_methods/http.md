@@ -14,3 +14,4 @@ Uma resposta HTTP é o que o clientes web, recebem de uma resposta do servidor. 
 - cabeçalho http de resposta;
 - um body opcional de http;
 
+\[WIP\]
